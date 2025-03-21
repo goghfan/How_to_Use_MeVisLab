@@ -3,7 +3,7 @@
 This blog is designed to help Chinese users of MeVisLab get started.
 这篇博客用于帮助MeVisLab的中文用户入门.
 
-MeVisLab是一款开源免费的医学影像处理软件，而且支持Win，Mac，Linux等多个平台，涵盖了包括图像读取，分割，配准，处理，渲染，重建等等的操作。（https://www.mevislab.de）
+MeVisLab是一款开源免费的医学影像处理软件，而且支持Win，Mac，Linux等多个平台，涵盖了包括图像读取，分割，配准，处理，渲染，重建等等的操作。官方网站：https://www.mevislab.de
 
 而且值得一提的是，这个软件是模块化工作的，你可以通过拖拽模块，连接模块进行处理，避免了繁琐的代码函数调用等。
 
