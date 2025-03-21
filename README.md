@@ -9,8 +9,7 @@ MeVisLab（https://www.mevislab.de）是一款开源免费的医学影像处理�
 
 而且值得一提的是，这个软件是模块化工作的，你可以通过拖拽模块，连接模块进行处理，避免了繁琐的代码函数调用等。
 
-<video src="https://www.mevislab.de/fileadmin/mevislab/daten/Movies/MeVisLab%20final_11112019_web.mp4">
-</video>
+<video src="https://www.mevislab.de/fileadmin/mevislab/daten/Movies/MeVisLab%20final_11112019_web.mp4"></video>
 
 很多著名的工作和优秀的渲染算法都是基于这款软件开发的。博主近期由于需要进行重建渲染的相关工作，因此撰写该博客，简单介绍学习历程，也弥补一下该领域中文教程匮乏的问题。
 
