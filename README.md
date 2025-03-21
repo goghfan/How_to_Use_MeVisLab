@@ -1,6 +1,4 @@
 # How_to_Use_MeVisLab
-[toc]
-
 ## 前言
 This blog is designed to help Chinese users of MeVisLab get started.
 这篇博客用于帮助MeVisLab的中文用户入门.
